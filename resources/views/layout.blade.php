@@ -15,7 +15,7 @@
     </head>
     <body>
         <nav class="fixed-top navbar navbar-expand-md navbar-dark shadow p-3 mb-3 rounded" style="background-color: #B886BA;">
-            <a class="navbar-brand" href="{{route('welcome')}}"><i><img class="mh-100 rounded-circle" style="width: 40px; height: 40px;" src="https://instagram.feze12-1.fna.fbcdn.net/v/t51.2885-19/s320x320/132111129_386794675725557_1826937587875151672_n.jpg?_nc_ht=instagram.feze12-1.fna.fbcdn.net&_nc_ohc=uYJ88k8t6y4AX8BK1wV&tp=1&oh=eadc32c94b3055b68133a80e704f2fa9&oe=602361F9" alt="Max-width 100%"></i></a>
+            <a class="navbar-brand" href="{{route('welcome')}}"><i>Iapitos</i></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
